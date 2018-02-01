@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  K07DS05.cpp
+c:\users\ugur unal\documents\visual studio 2015\projects\k07ds05\k07ds05\k07ds05.cpp(9): warning C4101: 'sayi': unreferenced local variable
+  K07DS05.vcxproj -> c:\users\ugur unal\documents\visual studio 2015\Projects\K07DS05\Debug\K07DS05.exe

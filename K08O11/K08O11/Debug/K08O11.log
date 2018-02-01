@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  K08O11.cpp
+c:\users\ugur unal\documents\visual studio 2015\projects\k08o11\k08o11\k08o11.cpp(12): warning C4101: 'z': unreferenced local variable
+c:\users\ugur unal\documents\visual studio 2015\projects\k08o11\k08o11\k08o11.cpp(11): warning C4101: 'y': unreferenced local variable
+c:\users\ugur unal\documents\visual studio 2015\projects\k08o11\k08o11\k08o11.cpp(10): warning C4101: 'x': unreferenced local variable
+c:\users\ugur unal\documents\visual studio 2015\projects\k08o11\k08o11\k08o11.cpp(13): warning C4101: 't': unreferenced local variable
+  K08O11.vcxproj -> c:\users\ugur unal\documents\visual studio 2015\Projects\K08O11\Debug\K08O11.exe
